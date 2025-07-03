@@ -1,6 +1,6 @@
 # Circuitpython umail
 
-Lightweight SMTP client for Circuitpython ported from umail for micropython.
+Lightweight SMTP client for Circuitpython [ported from umail for micropython](https://github.com/shawwwn/uMail).
 
 Pass the socketpool and if needed the ssl module instance. This example is for builtin wifi, but those should work when substituting airlift or ethernet.
 
